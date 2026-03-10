@@ -7,7 +7,7 @@ License: GPL2
 
 ## Description
 
-Adds timeline function as a CPT and inserted into a post or a page as a shortcode with vertical & horizontal options.
+Adds a timeline function as a CPT to inserted into a post or a page using shortcode with vertical & horizontal options.
 
 ## Tested on 
 * Firefox 
@@ -18,6 +18,9 @@ Adds timeline function as a CPT and inserted into a post or a page as a shortcod
 
 ## Website 
 http://www.phildesigns.com/
+
+## Prerequisite
+* Requires ACF Pro
 
 ## Installation 
 1. Upload ‘timelines’ to the '/wp-content/plugins/' directory

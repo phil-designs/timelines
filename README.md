@@ -1,4 +1,4 @@
-# timelines
+# Timelines
 
 Tags: jQuery, javascript
 Requires at least: 3.6.0

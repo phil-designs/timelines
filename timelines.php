@@ -1,11 +1,11 @@
 <?php
 /*
  * Plugin Name: Timelines
- * Plugin URI: http://phildesigns.com/
+ * Plugin URI: https://phildesigns.com/
  * Description: Adds timeline function as a CPT and inserted into a post or a page as a shortcode with vertical & horizontal options.
  * Version: 1.0
  * Author: phil.designs | Phillip De Vita
- * Author URI: http://phildesigns.com/
+ * Author URI: https://phildesigns.com/
  * License: GPL2
  */
 
